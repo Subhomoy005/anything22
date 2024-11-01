@@ -216,7 +216,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="images/icon-design.svg"
+                <img src="https://assets.onecompiler.app/42wu9fcpu/42wu9fhvh/logo-1-color.png"
                 alt="design icon" width="40">
               </div>
 
@@ -233,7 +233,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="images/icon-dev.svg" alt="Web development icon" width="40">
+                <img src="https://assets.onecompiler.app/42wu9fcpu/42wu9fhvh/logo-2-color.png" alt="Web development icon" width="40">
               </div>
 
               <div class="service-content-box">
@@ -249,7 +249,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="images/icon-app.svg" alt="mobile app icon" width="40">
+                <img src="https://assets.onecompiler.app/42wu9fcpu/42wu9fhvh/logo-4-color.png" alt="mobile app icon" width="40">
               </div>
 
               <div class="service-content-box">
@@ -265,7 +265,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="images/icon-photo.svg" alt="camera icon" width="40">
+                <img src="https://assets.onecompiler.app/42wu9fcpu/42wu9fhvh/logo-5-color.png" alt="camera icon" width="40">
               </div>
 
               <div class="service-content-box">
