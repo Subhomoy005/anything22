@@ -30,7 +30,7 @@
       <div class="sidebar-info">
 
         <figure class="avatar-box">
-          <img src="images/my-avatar.png" alt="Enakshi Dalui" width="80">
+          <img src="https://assets.onecompiler.app/42wu9fcpu/42wu9fhvh/avatar-2.png" alt="Enakshi Dalui" width="80">
         </figure>
 
         <div class="info-content">
